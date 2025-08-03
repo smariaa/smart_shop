@@ -52,7 +52,7 @@ A **Flutter mini e-commerce app** built using state management with `Provider`, 
 
 ---
 
-## 🎨 App Structure
+## App Structure
 
 ```bash
 lib/
@@ -94,7 +94,7 @@ lib/
 ### Run the App via Terminal
 
 ```bash
-git clone https://github.com/yourusername/smart_shop.git
+git clone https://github.com/smariaa/smart_shop.git
 cd smart_shop
 flutter pub get
 flutter run
@@ -109,10 +109,10 @@ flutter run
 ## Dependencies
 
 ```yaml
+cupertino_icons: ^1.0.8
 provider: ^6.1.0
 shared_preferences: ^2.2.2
 http: ^0.13.5
-cupertino_icons: ^1.0.8
 ```
 
 ---
@@ -128,14 +128,14 @@ cupertino_icons: ^1.0.8
 
 ---
 
+## Demo Video
+
+[Click here to watch the demo video](https://drive.google.com/file/d/1bPhmWv3yF2yNEatk7cp9K0w-b23rM3aL/view?usp=sharing)
+
+---
+
 ## References
 
 * [FakeStore API](https://fakestoreapi.com)
 * ChatGPT (Code guidance and README formatting help)
 * [https://github.com/egemenongel/flutter_e-commerce_app](https://github.com/egemenongel/flutter_e-commerce_app)
-
----
-
-## Demo Video
-
-[Click here to watch the demo video](https://drive.google.com/file/d/1bPhmWv3yF2yNEatk7cp9K0w-b23rM3aL/view?usp=sharing)
