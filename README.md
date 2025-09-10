@@ -119,18 +119,12 @@ http: ^0.13.5
 
 ## App Screenshots
 
-* ![Login](screenshots/login.png)
-* ![Register](screenshots/register.png)
-* ![Home](screenshots/home.png)
-* ![DarkTheme](screenshots/darktheme.png)
-* ![Cart](screenshots/cart.png)
-* ![Favourites](screenshots/favourites.png)
-
----
-
-## Demo Video
-
-[Click here to watch the demo video](https://drive.google.com/file/d/1bPhmWv3yF2yNEatk7cp9K0w-b23rM3aL/view?usp=sharing)
+![Login](screenshots/login.png)
+![Register](screenshots/register.png)
+![Home](screenshots/home.png)
+![DarkTheme](screenshots/darktheme.png)
+![Cart](screenshots/cart.png)
+![Favourites](screenshots/favourites.png)
 
 ---
 
