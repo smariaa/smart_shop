@@ -119,7 +119,8 @@ http: ^0.13.5
 
 ## App Screenshots
 
-![Login](screenshots/login.png) ![Register](screenshots/register.png)
+![Login](screenshots/login.png)
+![Register](screenshots/register.png)
 ![Home](screenshots/home.png)
 ![DarkTheme](screenshots/darktheme.png)
 ![Cart](screenshots/cart.png)
